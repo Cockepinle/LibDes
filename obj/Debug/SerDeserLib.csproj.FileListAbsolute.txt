@@ -1,0 +1,9 @@
+C:\Users\alepi\OneDrive\Рабочий стол\SerDeserLib\obj\Debug\SerDeserLib.csproj.AssemblyReference.cache
+C:\Users\alepi\OneDrive\Рабочий стол\SerDeserLib\obj\Debug\SerDeserLib.csproj.CoreCompileInputs.cache
+C:\Users\alepi\OneDrive\Рабочий стол\SerDeserLib\bin\Debug\SerDeserLib.dll
+C:\Users\alepi\OneDrive\Рабочий стол\SerDeserLib\bin\Debug\SerDeserLib.pdb
+C:\Users\alepi\OneDrive\Рабочий стол\SerDeserLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alepi\OneDrive\Рабочий стол\SerDeserLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alepi\OneDrive\Рабочий стол\SerDeserLib\obj\Debug\SerDeserLib.csproj.CopyComplete
+C:\Users\alepi\OneDrive\Рабочий стол\SerDeserLib\obj\Debug\SerDeserLib.dll
+C:\Users\alepi\OneDrive\Рабочий стол\SerDeserLib\obj\Debug\SerDeserLib.pdb
